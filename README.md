@@ -46,11 +46,11 @@
 
 ### If you need to asking about:
 
-- Front End,
-- Logic Program,
-- JavaScript,
-- Burning house
-- Something about tecnologies and/or life.
+- Front End;
+- Logic Program;
+- JavaScript;
+- Work experiences;
+- Something about tecnologies and/or life;
 
 <br>
 
