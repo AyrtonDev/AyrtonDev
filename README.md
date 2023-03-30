@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning Vue, Angular, React Native and Electron
-- Fun fact: I study to became a FullStack developer and I could speak english (I'm trying 🥺)
+- Fun fact: I study to become a Full Stack developer and could speak English (I'm trying 🥺)
 
 
 ## Knowledge 🤔
@@ -50,7 +50,7 @@
 - Logic Program;
 - JavaScript;
 - Work experiences;
-- Something about tecnologies and/or life;
+- Something about technologies and/or life;;
 
 <br>
 
