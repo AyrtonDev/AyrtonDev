@@ -3,7 +3,7 @@
 > I'm Ayrton, Programmer, Indian of Amazonas (Brazil, AM 🌳) and lover of monkey soup (It's joke)
 
 - 🔭 I’m currently working on Front End Developer
-- 🌱 I’m currently learning Vue, Angular, React Native and Electron
+- 🌱 I’m currently learning Vue, C#, DDD (for the next projects) and Electron
 - Fun fact: I study to become a Full Stack developer and could speak English (I'm trying 🥺)
 
 
