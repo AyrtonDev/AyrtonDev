@@ -2,9 +2,9 @@
 
 > I'm Ayrton, Programmer, Indian of Amazonas (Brazil, AM 🌳) and lover of monkey soup (It's joke)
 
-- 🔭 I’m currently working on Front End Developer
-- 🌱 I’m currently learning Vue, C#, DDD (for the next projects) and Electron
-- Fun fact: I study to become a Full Stack developer and could speak English (I'm trying 🥺)
+- 🔭 I’m currently unemployed, looking some job open as Full Stack
+- 🌱 I’m currently learning Python, C#, Design Patterns and Elastic Search
+- Fun fact: I study to make me better a Full Stack developer and could speak English (I'm trying 🥺)
 
 
 ## Knowledge 🤔
@@ -42,7 +42,7 @@
 
 ## Contact to me 🤙
 
-<img width="500" align="right" alt="GIF" src="https://thumbs.gfycat.com/ApprehensiveRecentAmoeba-size_restricted.gif" >
+<img width="500" align="right" alt="GIF" src="https://media.tenor.com/vHcHG7mOtuAAAAAC/thumbs-up-ok.gif" >
 
 ### If you need to asking about:
 
