@@ -1,6 +1,6 @@
 ## Hi,everyone, welcome to my Repository 👋
 
-> I'm Ayrton Guerra, Fullstack Developer 
+> I'm Ayrton Guerra, Full Stack Developer 
 
 ## My stack work experience 🤔
 
@@ -37,9 +37,9 @@
 
 ### If you need a:
 
-- Front-End Developer;
-- Back-End Developer;
-- FullStack Developer;
+- Front End Developer;
+- Back End Developer;
+- Full Stack Developer;
 
 <br>
 
